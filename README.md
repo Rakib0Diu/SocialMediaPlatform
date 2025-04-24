@@ -22,10 +22,10 @@ JDBC for database operations, and MySQL for persistent storage.
 
 **Project Structure**
 src/
-├── controller/    # Business logic and database handling
-├── model/         # Data models (User, Post, Comment, etc.)
-├── view/          # GUI interfaces and user interactions
-└── Database.java  # Database connection configuration
+- controller/     # Logic and database handling
+-  model/         # Data models (User, Post, Comment, etc.)
+- view/           # GUI interfaces and user interactions
+- Database.java   # Database connection configuration
 
 **Getting Started**
 1. Clone the Repository
