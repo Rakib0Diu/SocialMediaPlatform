@@ -1,8 +1,10 @@
 **Social Media Platform**
+
 **Overview**
 A lightweight, Java-based social media application that allows users to connect, 
 share content, and interact with friends. This desktop-based platform is built using Java Swing for GUI, 
 JDBC for database operations, and MySQL for persistent storage.
+
 **Features**
 	• User Registration and Login
 	• Create, Read, Update, Delete (CRUD) Posts
@@ -11,17 +13,20 @@ JDBC for database operations, and MySQL for persistent storage.
 	• Add / Remove Friends
 	• View Profiles and Friends Lists
 	• Personalized Timeline from Friends' Posts
+
 **Technologies Used**
         • Java (JDK 17+)
         • Swing – GUI Development
 	• MySQL – Relational Database
 	• JDBC – Java Database Connectivity
+
 **Project Structure**
 src/
 ├── controller/    # Business logic and database handling
 ├── model/         # Data models (User, Post, Comment, etc.)
 ├── view/          # GUI interfaces and user interactions
 └── Database.java  # Database connection configuration
+
 **Getting Started**
 1. Clone the Repository
 
@@ -42,6 +47,7 @@ src/
    - Open the project in IntelliJ/Eclipse or compile from terminal:
      javac -d bin src/**/*.java
      java -cp bin view.Main
+
 **License**
 MIT License
 
