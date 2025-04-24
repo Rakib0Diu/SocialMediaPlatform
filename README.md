@@ -6,19 +6,19 @@ share content, and interact with friends. This desktop-based platform is built u
 JDBC for database operations, and MySQL for persistent storage.
 
 **Features**
-	• User Registration and Login
-	• Create, Read, Update, Delete (CRUD) Posts
-	• Like / Dislike Posts
-	• Comment on Posts
-	• Add / Remove Friends
-	• View Profiles and Friends Lists
-	• Personalized Timeline from Friends' Posts
+ - User Registration and Login
+ -  Create, Read, Update, Delete (CRUD) posts
+ - Like / Dislike Posts
+ - Comment on Posts
+ - Add / Remove Friends
+ - View Profiles and Friends Lists
+ - Personalized Timeline from Friends' Posts
 
 **Technologies Used**
-        • Java (JDK 17+)
-        • Swing – GUI Development
-	• MySQL – Relational Database
-	• JDBC – Java Database Connectivity
+- Java (JDK 23)
+- Swing – GUI Development
+- MySQL – Relational Database
+- JDBC – Java Database Connectivity
 
 **Project Structure**
 src/
