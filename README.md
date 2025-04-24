@@ -1,7 +1,9 @@
 **Social Media Platform**
 **Overview**
-A lightweight, Java-based social media application that allows users to connect, share content, and interact with friends. This desktop-based platform is built using Java Swing for GUI, JDBC for database operations, and MySQL for persistent storage.
-Features
+A lightweight, Java-based social media application that allows users to connect, 
+share content, and interact with friends. This desktop-based platform is built using Java Swing for GUI, 
+JDBC for database operations, and MySQL for persistent storage.
+**Features**
 	• User Registration and Login
 	• Create, Read, Update, Delete (CRUD) Posts
 	• Like / Dislike Posts
@@ -10,8 +12,8 @@ Features
 	• View Profiles and Friends Lists
 	• Personalized Timeline from Friends' Posts
 **Technologies Used**
-  • Java (JDK 17+)
-	• Swing – GUI Development
+        • Java (JDK 17+)
+        • Swing – GUI Development
 	• MySQL – Relational Database
 	• JDBC – Java Database Connectivity
 **Project Structure**
